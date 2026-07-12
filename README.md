@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
