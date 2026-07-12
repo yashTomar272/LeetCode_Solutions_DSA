@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
