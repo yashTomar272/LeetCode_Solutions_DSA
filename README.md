@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -44,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
