@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
