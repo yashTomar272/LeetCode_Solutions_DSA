@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
 ## Divide and Conquer
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
