@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
 ## Queue
 |  |
