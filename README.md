@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
 ## Queue
