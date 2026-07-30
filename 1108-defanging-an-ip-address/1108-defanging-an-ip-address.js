@@ -3,5 +3,13 @@
  * @return {string}
  */
 var defangIPaddr = function(address) {
-    return address.replaceAll(".", "[.]")
+  let result=""
+   for(let ch of address){
+      if(ch=="."){
+         result+="[.]"
+      }else{
+         result+=ch
+      }
+   }
+   return result
 };
