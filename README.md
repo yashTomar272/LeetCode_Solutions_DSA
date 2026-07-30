@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1108-defanging-an-ip-address) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2000-reverse-prefix-of-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Queue
 |  |
