@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
 |  |
