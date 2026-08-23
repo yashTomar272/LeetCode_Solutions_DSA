@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0202-happy-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0088-merge-sorted-array) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0242-valid-anagram) |
