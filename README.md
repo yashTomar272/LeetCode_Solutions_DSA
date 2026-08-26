@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
