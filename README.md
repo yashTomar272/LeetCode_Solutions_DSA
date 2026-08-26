@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1929-concatenation-of-array) |
+| [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
