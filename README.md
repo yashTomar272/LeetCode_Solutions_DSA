@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1470-shuffle-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0415-add-strings) |
+| [0989-add-to-array-form-of-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
