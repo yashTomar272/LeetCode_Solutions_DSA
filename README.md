@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Queue
 |  |
 | ------- |
