@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
