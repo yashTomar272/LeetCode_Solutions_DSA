@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0217-contains-duplicate) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 ## Matrix
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0058-length-of-last-word) |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0290-word-pattern) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -304,4 +308,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
