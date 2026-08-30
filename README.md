@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1512-number-of-good-pairs) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
