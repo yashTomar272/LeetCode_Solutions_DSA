@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0771-jewels-and-stones) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0709-to-lower-case) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
