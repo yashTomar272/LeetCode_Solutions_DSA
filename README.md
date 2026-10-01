@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0697-degree-of-an-array) |
 | [0881-boats-to-save-people](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0881-boats-to-save-people) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/yashTomar272/LeetCode_Solutions_DSA/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
